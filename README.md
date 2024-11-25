@@ -25,7 +25,7 @@ Natzki's Autoclicker & Keyspammer is a highly customizable tool designed to auto
     ```
 3. Install the required dependencies:
     ```sh
-    pip install keyboard pyautogui
+    pip install keyboard pyautogui threading
     ```
 
 ## Usage
